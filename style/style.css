@@ -1,0 +1,70 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+
+}
+body{
+    direction: rtl;
+}
+h1{
+    text-align: center;
+    background-color: aqua;
+    padding: 50px;
+
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+.nameMovie{
+    width: 20%;
+    background-color: gray;
+}
+.director{
+    width: 20%;
+     background-color: gray;
+}
+.genre{
+    width: 10%;
+     background-color: gray;
+}
+.imdb{
+    width: 10%;
+     background-color: gray;
+}
+.desc{
+     background-color: gray;
+}
+.squidGame{
+    border: 1px solid black;
+    
+}
+td{
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+.theLast{
+    background-color: darkgrey;
+}
+.viking{
+        background-color: darkgrey;
+
+
+}
+.Mycenter{
+    text-align: center;
+    margin-top: 10px ;
+}
+.Mypage{
+    display: inline-block;
+}
+.Mypage a{
+color: black;
+float: right;
+padding: 8px 16px;
+text-decoration: none;
+border: 1px solid ;
+background-color: aquamarine;
+
+}
